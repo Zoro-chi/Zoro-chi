@@ -24,4 +24,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zoro-chi&" alt="zoro-chi" /></p>
 
-<p> https://www.codewars.com/users/Zoro-chi_/badges/large </p>
+<img src="https://www.codewars.com/users/Zoro-chi_/badges/large">
