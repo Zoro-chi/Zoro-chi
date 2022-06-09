@@ -23,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zoro-chi&show_icons=true&locale=en" alt="zoro-chi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zoro-chi&" alt="zoro-chi" /></p>
+
+<p> https://www.codewars.com/users/Zoro-chi_/badges/large </p>
