@@ -5,7 +5,7 @@
 <h2 align="center"> I'm currently working on fullstack projects <h2>
 
 
-<p align="center"> - 👨‍💻 All of my projects are available at [https://github.com/Zoro-chi](https://github.com/Zoro-chi) </p>
+<p align="center"> - 👨‍💻 All of my projects are available at [https://github.com/Zoro-chi] </p>
 
 <p align="center"> - 📫 How to reach me **jagbetuyi001@gmail.com** </p>
 
