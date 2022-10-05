@@ -5,11 +5,11 @@
 <h2 align="center"> I'm currently learning Typescript and Solidity <h2>
 
 
-<p align="center"> - 👨‍💻 All of my projects are available at [https://github.com/Zoro-chi] </p>
+<p align="center"> - 👨‍💻 My Portfolio: [https://segun-agbetuyi.netlify.app] </p>
 
-<p align="center"> - 📫 How to reach me **jagbetuyi001@gmail.com** </p>
+<p align="center"> - 📫 How to reach me: jagbetuyi001@gmail.com </p>
 
-<p align="center"> - ⚡ Fun fact **"Ash ketchum's youth potion"** </p>
+<p align="center"> - ⚡ Fun fact: "Ash ketchum's youth potion" </p>
 
 
 ## 🌐Socials
