@@ -22,9 +22,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Zoro-chi&theme=darcula&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Zoro-chi&theme=darcula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zoro-chi&theme=darcula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-  
 
-<img src="https://www.codewars.com/users/Zoro-chi_/badges/large">
 
 ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
