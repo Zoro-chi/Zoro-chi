@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Segun Jr Agbetuyi (Zoro-chi)</h1>
 <h3 align="center">A passionate fullstack developer from Lagos, Nigeria</h3>
 
-<h2 align="center"> I'm currently learning Typescript and Solidity <h2>
+<h2 align="center"> I'm currently learning AWS cloud services <h2>
 
 
 <p align="center"> - 👨‍💻 My Portfolio: [https://segun-agbetuyi.netlify.app] </p>
