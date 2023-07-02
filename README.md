@@ -1,6 +1,6 @@
 # 💫About Me :
 <h1 align="center">Hi 👋, I'm Segun Jr Agbetuyi (Zoro-chi)</h1>
-<h3 align="center">A passionate fullstack developer from Lagos, Nigeria</h3>
+<h3 align="center">Software Engineer, Cloud Developer & Blockchain advocate</h3>
 
 <p align="center"> - 👨‍💻 My Portfolio: [https://segun-agbetuyi.netlify.app] </p>
 
