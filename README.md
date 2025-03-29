@@ -1,6 +1,6 @@
 # 💫About Me :
 <h1 align="center">Hi 👋, I'm Segun Jr Agbetuyi (Zoro-chi)</h1>
-<h3 align="center">Software Engineer, Cloud Developer & Blockchain advocate</h3>
+<h3 align="center">Software Developer | Cloud Engineer | AI/ML Engineer</h3>
 
 <p align="center"> - 📫 How to reach me: jagbetuyi001@gmail.com </p>
 
