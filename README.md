@@ -4,7 +4,7 @@
 
 <p align="center"> - 📫 How to reach me: jagbetuyi001@gmail.com </p>
 
-<p align="center"> - ⚡ Fun fact: "Ash ketchum's youth potion" </p>
+<p align="center"> - ⚡ Fun fact: "If you are gonna do it, might as well give 110%" </p>
 
 
 ## 🌐Socials
